@@ -10,5 +10,8 @@
     "mtcnn_factor" : 0.6,
 
     "maxFaceNum" : 3,
-    "ver_delay_frame" : 12
+    "maxStoredFaceNum" : 20,
+    "ver_delay_frame" : 12,
+    
+    "known_faces_path" : "./known_faces"
 }
